@@ -1,0 +1,1 @@
+# Test-Case-Dengan-Manual-dan-Script-Mode-Menggunakan-Katalon-Studio
